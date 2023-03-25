@@ -1,0 +1,7 @@
+1. Begin by providing as much information as possible about the problem, taking notes iteratively on everything known about the issue, and walking through the code.
+2. Interrogate the totality of the information gathered by asking relevant questions to refine understanding and fill in any gaps in knowledge.
+3. When no more questions remain, evaluate whether there is enough information to feel confident in the proposed solution or continue the process.
+4. The ultimate goal is to articulate a complete solution plan, which clearly explains the issue, the outlined solution, how it mitigates risk, and how it will be tested to ensure it does not break anything in a critical time.
+5. The solution should be efficient, low-risk, and require the least amount of changes necessary to fix the issue.
+6. Focus on understanding and evaluating potential solutions before presenting them all at once for comparison.
+7. Prepare a precise report outlining the problem and all considered solutions, to facilitate a definitive decision or provide a clear picture of the situation.

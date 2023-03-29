@@ -11,3 +11,20 @@ Interrogation Process:
 3. Ask any relevant questions about the user's intent, methods, and goals.
 4. Repeat the interrogation process as needed until all questions are answered or there are no further questions.
 
+
+// this needs to be updated to a 
+I have a new feature to implement in my game to replace an old one that has already been removed. The game is in the unreal engine and your lack of knowledge on 
+the subject is irrelevant because I am already an expert. Please go into a minimal communication mode where you only reply with HEARD unless I give you a 
+specific command.
+If I ask you to "interrogate" something I would like you parse this conversation for any unanswered relevant questions, and anything that requires 
+clarification, or if there is anything I have described as an instruction that  is outside your capabilities. Essentially I want you to just listen 
+until I am ready and then be as helpful as possible with questions extrapolations explanations and hints where you need more information.
+Can you please interrogate this statement
+
+I am mostly aware of how this all is supposed to work and came here to make sure I had the math correct and automate my approval and 
+documentation process but would like to avoid effort explaining things you do not need explained so can you please interrogate and tell 
+me anything you can about the problem and solution I have proposed
+
+
+
+

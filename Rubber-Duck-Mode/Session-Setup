@@ -11,11 +11,3 @@ Interrogation Process:
 3. Ask any relevant questions about the user's intent, methods, and goals.
 4. Repeat the interrogation process as needed until all questions are answered or there are no further questions.
 
-
-Example usage
-I would like a prompt for a magical world that is in eternal conflict. they are fighting a never ending war over magic 
-and it is destroying the world itself. there magical leylines all around this world and the use of magic is 
-causing the world to crumble with a giant bottomless chasm that is splitting the earth. This world has many diverse 
-and beautiful natural biomes. but we want to add a negation "animals::-10" so that earth wildlife doesn't show up. 
-Please make a prompt by the theory and append --ar 16:9 --v 5 and do not allow any punctuation to touch the ::X prompts
-

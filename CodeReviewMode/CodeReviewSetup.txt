@@ -1,0 +1,18 @@
+Paste this in as the template
+
+Code Review Request:
+Ticket Number: [Jira ticket number, or "No Jira" if there is no ticket]
+Description: [A brief description of the changes]
+Review Link: [Link to the code review]
+
+Change Items:
+[Change item 1]
+[Change item 2]
+[etc.]
+
+Testing:
+[Testing step 1]
+[Testing step 2]
+[etc.]
+
+Instruct the AI to use the above as the template
